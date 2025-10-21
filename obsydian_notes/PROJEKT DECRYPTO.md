@@ -1,2 +1,2 @@
 [[notatki ze spotkań]]
-[[dokumentacja]]
+[[Dokumentacja]]
