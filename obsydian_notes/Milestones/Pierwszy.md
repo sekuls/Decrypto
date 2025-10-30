@@ -8,9 +8,6 @@ siema tutaj zrobie ładny opis jak będę miała chwilkę ~ Olga
 - react - prosta wizualizacja przebiegu rozgrywki
 
 
-## implementacja java
-
-
 ##### 1.WebSocket Setup, komunikacja w czasie rzeczywistym
 
 - System używa protokołu WebSocket do dwukierunkowej komunikacji między serwerem a klientami. Każdy gracz utrzymuje stałe połączenie z serwerem, co pozwala na natychmiastowe przesyłanie wydarzeń w grze. Każde połączenie WebSocket jest identyfikowane przez unikalny session ID. Serwer śledzi które połączenie należy do którego gracza i która gracza
@@ -31,3 +28,4 @@ siema tutaj zrobie ładny opis jak będę miała chwilkę ~ Olga
 	- Inicjalizuje struktury danych do śledzenia stanu gry
 	- Ustawia początkowy status gry na "OCZEKIWANIE NA GRACZY"
 	- Przygotuje system punktacji z zerowymi wartościami początkowym
+
