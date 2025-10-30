@@ -23,6 +23,7 @@ siema tutaj zrobie ładny opis jak będę miała chwilkę ~ Olga
 	- **Kanały komend** - endpointy do których klienci wysyłają akcje (np. stworzenie gry, wysłanie podpowiedzi)
 
 ##### 2.Tworzenie rozgrywki
+![[Pasted image 20251030192712.png]]
 
 - tworzenie kodu pokoju w celu dołączenia innych graczy do gry
 - system automatyczne przygotwuje grę:

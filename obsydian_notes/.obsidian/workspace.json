@@ -11,14 +11,10 @@
             "id": "c70eac45c1f55dfd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Milestones/Drugi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Drugi"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -27,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spotkania/20.10.2025.md",
+                "file": "notatki ze spotkań.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20.10.2025"
+              "title": "notatki ze spotkań"
             }
           },
           {
@@ -41,16 +37,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Milestones/Pierwszy.md",
+                "file": "Spotkania/30.10.2025-demo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pierwszy"
+              "title": "30.10.2025-demo"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "54ad716803245ede",
@@ -199,22 +193,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53473373d6733e40",
+  "active": "c70eac45c1f55dfd",
   "lastOpenFiles": [
-    "Milestony.md",
-    "Spotkania/20.10.2025.md",
-    "Milestones/Pierwszy.md",
-    "Milestones/Trzeci.md",
     "Milestones/Drugi.md",
-    "PROJEKT DECRYPTO.md",
+    "Spotkania/30.10.2025-demo.md",
+    "Milestones/Pierwszy.md",
     "notatki ze spotkań.md",
-    "dokumentacja.md",
+    "Spotkania/20.10.2025.md",
+    "Spotkania/img/Pasted image 20251030192712.png",
+    "Dla nas/Technologie.md",
+    "Spotkania/img/Pasted image 20251030191532.png",
     "Spotkania/23.10.2025.md",
+    "Milestones/Pierwszy milestone.md",
+    "Milestones/img/Bez tytułu.png",
+    "Milestones/img",
+    "Milestones/Nowy folder",
+    "Pasted image 20251028223405.png",
+    "Milestony.md",
+    "Milestones/Trzeci.md",
+    "PROJEKT DECRYPTO.md",
+    "Spotkania/img",
     "Spotkania/img/566513912_1306414774045250_3702459967271614243_n.jpg",
     "Spotkania/img/557430535_1454772492275938_2780714535906676941_n.jpg",
-    "Spotkania/img",
     "Dokumentacja.md",
-    "Dla nas/Technologie.md",
     "Dla nas",
     "Docs",
     "Dla nas/kanban.md",
