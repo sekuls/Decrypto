@@ -1,1 +1,1 @@
-TODO
+rozwijanie rozgrywki!!
