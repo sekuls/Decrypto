@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Milestony.md",
+                "file": "Milestones/Pierwszy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Milestony"
+              "title": "Pierwszy"
             }
           }
         ],
@@ -201,8 +201,8 @@
   },
   "active": "53473373d6733e40",
   "lastOpenFiles": [
-    "Spotkania/20.10.2025.md",
     "Milestony.md",
+    "Spotkania/20.10.2025.md",
     "Milestones/Pierwszy.md",
     "Milestones/Trzeci.md",
     "Milestones/Drugi.md",
