@@ -11,6 +11,27 @@
 
 ## 2. Szczegóły Implementacji
 
+### Prostokół komunikacji
+- format danych - json
+- przykładowa struktura wiadomości do serwera:
+```json
+{
+  "fazaGry": "WPISYWANIE_HASLA_BIALI", // lub "ZGADYWANIE_CZARNI", 
+  "runda": 1,
+  "druzynaBiala": {
+    "punkty": 0,
+    "zycia": 2,
+    
+  "druzynaCzarna": {
+    "punkty": 1,
+    "zycia": 1,
+  }
+}
+```
+### Technologia sieciowa
+Spring Boot z WebSockets
+
+
 ### Frontend, UI
 - *przykładowy UI (analogicznty do fizycznego notatnika)- ktoś zrobi ładniejszy - ale to potem na razie może być taki po chamsku ale żeby działał*
 ![[Pasted image 20251030192712.png]]
@@ -45,3 +66,5 @@
 
 ##### KOMUNIKACJA Z FRONTEM
 
+
+[[podział tasków]]

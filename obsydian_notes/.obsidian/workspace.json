@@ -11,10 +11,14 @@
             "id": "c70eac45c1f55dfd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "podział tasków.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "podział tasków"
             }
           },
           {
@@ -45,7 +49,8 @@
               "title": "Pierwszy - interaktywny notatnik"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,16 +198,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c70eac45c1f55dfd",
+  "active": "6f5aa842d31dc0c4",
   "lastOpenFiles": [
-    "Dokumentacja.md",
+    "podział tasków.md",
     "Docs/Users Stories.md",
     "Milestones/Pierwszy - interaktywny notatnik.md",
-    "Dla nas/Technologie.md",
-    "Spotkania/30.10.2025.md",
+    "Milestony.md",
     "PROJEKT DECRYPTO.md",
-    "Spotkania/30.10.2025-demo.md",
+    "dokumentacja.md",
     "notatki ze spotkań.md",
+    "Spotkania/30.10.2025.md",
+    "Dokumentacja.md",
+    "Dla nas/Technologie.md",
+    "Spotkania/30.10.2025-demo.md",
     "Dla nas/kanban.md",
     "Milestones/Drugi.md",
     "Spotkania/20.10.2025.md",
@@ -214,7 +222,6 @@
     "Milestones/img",
     "Milestones/Nowy folder",
     "Pasted image 20251028223405.png",
-    "Milestony.md",
     "Milestones/Trzeci.md",
     "Spotkania/img",
     "Spotkania/img/566513912_1306414774045250_3702459967271614243_n.jpg",
