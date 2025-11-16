@@ -7,5 +7,7 @@ Ogólnie to może być śmietnik, wrzucamy rzeczy które mogą się, przydać al
 ### Folder "docs"
 Bardziej oficjalne dokumenty - opisy funkcjonalności, dokumenty wg wzorów z enauczania, sprawozdania.
 
+[[Słowniczek]] 
+- Słowa z których będziemy korzystać, z opisem i ewentualnymi innymi nazwami które mogą się pojawić w kodzie lub na gui
 Users Stories
-: Opis możliwych scenariuszy użycia naszej aplikacji, z perspektywy wysokopoziomowej. Możliwe funkcjonalności
+- Opis możliwych scenariuszy użycia naszej aplikacji, z perspektywy wysokopoziomowej. Możliwe funkcjonalności

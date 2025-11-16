@@ -62,9 +62,9 @@ Spring Boot z WebSockets
 - Nie ma potrzeby rejestracji graczy — sesje rozpoznawane po kolejności wejść lub kodzie gry.
 
 ##### LOGIKA APLIKACJI
-
+todo
 
 ##### KOMUNIKACJA Z FRONTEM
-
+todo
 
 [[podział tasków]]
