@@ -41,7 +41,19 @@ Faza zgadywania - próba przechwycenia przez drużynę przeciwną
 
 ---
 
+---
+Rozstrzygnięcie Rundy i Punktacja
+	System gry ma automatycznie podliczać wyniki rundy i aktualizować punktację dla obu drużyn, aby gracze wiedzieli, ile żetonów przechwycenia i komunikacyjnych zdobyli.
+	Symulacja:
+	- Faza zgadywania właśnie się zakończyła i wszystkie drużyny zatwierdziły swoje odpowiedzi w panelach odpowiedzi drużyny.
+	- System porównuje każdą odpowiedź z prawidłowym tajnym kodem Kodera.
+	- Drużyna, która poprawnie odgadła kod przeciwnika w swojej fazie przechwytywania, otrzymuje żeton przechwycenia.
+	- Drużyna, której członkowie nie odgadli kodu swojego Kodera, otrzymuje żeton nieudanej komunikacji.
+	- System aktualizuje punktację i wyświetla ją na ekranach obu drużyn, pokazując liczbę zdobytych żetonów przechwycenia oraz żetonów komunikacyjnych.
+	- Wszystkie żetony i punktacja pozostają widoczne dla obu drużyn, a historia rund jest zapisywana w systemie.
+	- Po podsumowaniu wyników gra przechodzi do kolejnej rundy, a rola Kodera zmienia się na kolejnego gracza w drużynie zgodnie z ustaloną kolejnością tur.
+
+
 przykładowe user stories jakie jeszcze można zrobić : 
 - Faza Zgadywania: Odgadywanie Kodu (Własna Drużyna)
-- Rozstrzygnięcie Rundy i Punktacja
 - Zakończenie Gry
