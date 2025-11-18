@@ -40,8 +40,6 @@ Faza zgadywania - próba przechwycenia przez drużynę przeciwną
 	- Jeśli nie zgadliśmy to następuje następna tura. W przeciwnym razie dostajemy żeton i gra restartuje tablice i tajne słowa rozpoczynając nową rundę
 
 ---
-
----
 Rozstrzygnięcie Rundy i Punktacja
 	System gry ma automatycznie podliczać wyniki rundy i aktualizować punktację dla obu drużyn, aby gracze wiedzieli, ile żetonów przechwycenia i komunikacyjnych zdobyli.
 	Symulacja:
@@ -53,7 +51,16 @@ Rozstrzygnięcie Rundy i Punktacja
 	- Wszystkie żetony i punktacja pozostają widoczne dla obu drużyn, a historia rund jest zapisywana w systemie.
 	- Po podsumowaniu wyników gra przechodzi do kolejnej rundy, a rola Kodera zmienia się na kolejnego gracza w drużynie zgodnie z ustaloną kolejnością tur.
 
+---
+Zakończenie Gry
+	System gry chce automatycznie zakończyć grę, gdy jedna z drużyn osiągnie warunek zwycięstwa lub przegranej.
+	Symulacja:
+	- Po zakończeniu rundy system sprawdza liczbę żetonów przechwycenia i żetonów nieudanej komunikacji dla obu drużyn.
+	- Jeżeli którakolwiek drużyna zgromadzi wymaganą liczbę żetonów przechwycenia, zostaje ogłoszona zwycięzcą.
+	- Jeżeli drużyna osiągnie maksymalną liczbę żetonów nieudanej komunikacji, zostaje uznana za przegraną, a drużyna przeciwna wygrywa.
+	- System wyświetla ekran końcowy z informacją o zwycięzcy, podsumowaniem punktacji oraz historią rund dla obu drużyn.
+	- Gra kończy się i blokuje dalsze wprowadzanie danych do paneli odpowiedzi drużyny.
+
 
 przykładowe user stories jakie jeszcze można zrobić : 
 - Faza Zgadywania: Odgadywanie Kodu (Własna Drużyna)
-- Zakończenie Gry
