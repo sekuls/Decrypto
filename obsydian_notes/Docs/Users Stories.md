@@ -62,5 +62,13 @@ Zakończenie Gry
 	- Gra kończy się i blokuje dalsze wprowadzanie danych do paneli odpowiedzi drużyny.
 
 
-przykładowe user stories jakie jeszcze można zrobić : 
-- Faza Zgadywania: Odgadywanie Kodu (Własna Drużyna)
+Faza Zgadywania: Odgadywanie Kodu (Własna Drużyna)
+	Jako członek drużyny Kodera, który aktualnie podaje wskazówki, chcę zobaczyć publiczne wskazówki naszego Kodera i poprawnie odgadnąć nasz tajny kod, aby uniknąć zdobycia żetonu nieudanej komunikacji.
+	Symulacja:
+	- Jestem w drużynie "białych". Nasz Koder podał wskazówki: " killer2, arduino, killer1"
+	- Widzę tajne słowa mojej drużyny
+	- Dyskutuję z pozostałymi graczami w mojej drużynie i wpisujemy ustalone hasło (np. "2 - 4 - 1") w panel
+	- Klikamy "zatwierdź kod"
+	- Nasza odpowiedź ("2-4-1") jest zapisana, ale pozostaje ukryta dla drużyny "czarnych", dopóki oni nie zatwierdzą swojej odpowiedzi
+	- Jeśli zgadliśmy, następuje następna tura. Jeśli nie zgadliśmy, nasza drużyna otrzymuje żeton nieudanej komunikacji i rozpoczyna się nowa runda z nowymi słowami
+
