@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "19.11.2025.md",
+                "file": "Dla nas/Technologie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19.11.2025"
+              "title": "Technologie"
             }
           },
           {
@@ -208,10 +208,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f5aa842d31dc0c4",
+  "active": "60f572ab2226fc93",
   "lastOpenFiles": [
+    "Spotkania/19.11.2025.md",
     "notatki ze spotkań.md",
-    "19.11.2025.md",
     "Dla nas/podział tasków.md",
     "Milestones/Pierwszy - interaktywny notatnik.md",
     "Docs/Users Stories.md",
