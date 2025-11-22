@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "715b92b16001d646",
+    "type": "split",
+    "children": [
+      {
+        "id": "90a303969d70662d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c70eac45c1f55dfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Milestones/Pierwszy - interaktywny notatnik.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pierwszy - interaktywny notatnik"
+            }
+          },
+          {
+            "id": "6f5aa842d31dc0c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "19.11.2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "19.11.2025"
+            }
+          },
+          {
+            "id": "0db9812bb54a3ca6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dla nas/Technologie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Technologie"
+            }
+          },
+          {
+            "id": "71a1dfe870ecb94b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6759c786e9e9fc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2773afe4ab9be60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60f572ab2226fc93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f0442958442cdff8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c388ecefd9fce878",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "54ad716803245ede",
+    "type": "split",
+    "children": [
+      {
+        "id": "384812e51e6cc068",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad6759cad3718a2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "projekt decrytpo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for projekt decrytpo"
+            }
+          },
+          {
+            "id": "7f990ab0cb80ec83",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "projekt decrytpo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from projekt decrytpo"
+            }
+          },
+          {
+            "id": "b79b569a9983496f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b711d1b7bc4b838c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "projekt decrytpo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of projekt decrytpo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6f5aa842d31dc0c4",
+  "lastOpenFiles": [
+    "notatki ze spotkań.md",
+    "19.11.2025.md",
+    "Dla nas/podział tasków.md",
+    "Milestones/Pierwszy - interaktywny notatnik.md",
+    "Docs/Users Stories.md",
+    "Milestony.md",
+    "PROJEKT DECRYPTO.md",
+    "dokumentacja.md",
+    "Spotkania/30.10.2025.md",
+    "Spotkania/23.10.2025.md",
+    "Spotkania/20.10.2025.md",
+    "Spotkania/img/Pasted image 20251030192712.png",
+    "Spotkania/img/Pasted image 20251030191532.png",
+    "Spotkania/img/566513912_1306414774045250_3702459967271614243_n.jpg",
+    "Spotkania/img/557430535_1454772492275938_2780714535906676941_n.jpg",
+    "Milestones/Trzeci.md",
+    "Milestones/Drugi.md",
+    "Docs/Słowniczek.md",
+    "Dla nas/Technologie.md",
+    "Dla nas/kanban.md",
+    "Dokumentacja.md",
+    "Spotkania/30.10.2025-demo.md",
+    "Milestones/Pierwszy milestone.md",
+    "Milestones/img/Bez tytułu.png",
+    "Milestones/img",
+    "Milestones/Nowy folder",
+    "Pasted image 20251028223405.png",
+    "Spotkania/img",
+    "Dla nas",
+    "Docs",
+    "Spotkania",
+    "Milestones",
+    "zdjęcia"
+  ]
+}
